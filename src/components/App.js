@@ -1,12 +1,19 @@
 import React from 'react';
-import Banner from './Banner';
-import Carte from './Carte';
+import Aptitude from './Aptitude';
+import Footer from './Footer';
+import Header from './Header';
+import Professionelle from './Professionelle';
+import Profil from './Profil';
+
 
 const App = () => {
   return (
     <div>
-      <Banner />
-      <Carte />
+      <Header />
+      <Profil />
+      <Aptitude />
+      <Professionelle />
+      <Footer />
     </div>
   );
 };

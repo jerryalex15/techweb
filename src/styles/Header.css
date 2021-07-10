@@ -1,0 +1,10 @@
+.head{
+    background-color: rgb(175, 174, 92);
+    text-align: center;
+    vertical-align: center;
+    color:rgb(77, 132, 180);
+    height: 40px;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+}
